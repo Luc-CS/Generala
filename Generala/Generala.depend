@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1687525946 source:d:\juegodados\generala\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	"rlutil.h"
+	"Combinaciones.h"
+	"Dados.h"
+	"Menu.h"
+	"Reinicio_Variables.h"
+	"Puntaje.h"
+	"Carteles.h"
+
+1571584340 d:\juegodados\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687488376 d:\juegodados\generala\combinaciones.h
+
+1687527954 d:\juegodados\generala\dados.h
+	"rlutil.h"
+
+1687519588 d:\juegodados\generala\menu.h
+	"rlutil.h"
+
+1687466386 d:\juegodados\generala\reinicio_variables.h
+
+1687526594 d:\juegodados\generala\puntaje.h
+
+1687521202 d:\juegodados\generala\carteles.h
+
